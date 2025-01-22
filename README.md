@@ -6,6 +6,7 @@ This project aims to model the following:
 This code was part of my final project for *ECE 4240: Robot Perception* class at Cornell.
 
 Much of the cell outputs in the notebook are sliders and use interactive widgets. Thus the web browser doesn't display properly them. If you are curious about the sliders, I suggest to pull the repository and follow the instructions. Otherwise, I also include a GIF of the final product:
+
 **Tracking Device using a Pinhole Camera with Gaussian Noise and Blur**
 ![](https://github.com/Raphael138/Pinhole-Tracker/blob/main/tracking_blurry.gif)
 
