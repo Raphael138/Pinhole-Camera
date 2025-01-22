@@ -7,7 +7,8 @@ This code was part of my final project for *ECE 4240: Robot Perception* class at
 
 Much of the cell outputs in the notebook are sliders and use interactive widgets. Thus the web browser doesn't display properly them. If you are curious about the sliders, I suggest to pull the repository and follow the instructions. Otherwise, I also include a GIF of the final product:
 
-<p align="center"><b>Tracking Device using a Pinhole Camera with Gaussian Noise and Blur</b></p>
+<p align="center"><b>Drone Tracking a Target using the Depth Sensor Model with Gaussian Noise and Blur</b></p>
+
 ![](https://github.com/Raphael138/Pinhole-Tracker/blob/main/tracking_blurry.gif)
 
 # How to Use
